@@ -1,0 +1,12 @@
+id: 41505
+opcode: QUERY
+status: NOERROR
+flags: QR RD RA CD
+;; QUESTION SECTION:
+;project-nightingale.stanford.edu. IN A
+;; ANSWER SECTION:
+project-nightingale.stanford.edu. 1800 IN CNAME	project-nightingale-ctl.github.io.
+project-nightingale-ctl.github.io. 3600	IN A 185.199.108.153
+project-nightingale-ctl.github.io. 3600	IN A 185.199.111.153
+project-nightingale-ctl.github.io. 3600	IN A 185.199.110.153
+project-nightingale-ctl.github.io. 3600	IN A 185.199.109.153
