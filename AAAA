@@ -1,0 +1,12 @@
+id: 6167
+opcode: QUERY
+status: NOERROR
+flags: QR RD RA CD
+;; QUESTION SECTION:
+;project-nightingale.stanford.edu. IN AAAA
+;; ANSWER SECTION:
+project-nightingale.stanford.edu. 1800 IN CNAME	project-nightingale-ctl.github.io.
+project-nightingale-ctl.github.io. 3600	IN AAAA	2606:50c0:8003::153
+project-nightingale-ctl.github.io. 3600	IN AAAA	2606:50c0:8002::153
+project-nightingale-ctl.github.io. 3600	IN AAAA	2606:50c0:8000::153
+project-nightingale-ctl.github.io. 3600	IN AAAA	2606:50c0:8001::153
